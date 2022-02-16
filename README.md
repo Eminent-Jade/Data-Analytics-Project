@@ -1,2 +1,2 @@
-# Data-analytics-project
+# Data-Analytics-Project
 xxx
