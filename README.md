@@ -4,4 +4,5 @@ This is a analytical report on thermal comfort indexes in Rm.02.412 & Rm.12_431 
 to achieve 'comfortable' sensations in indoor environment,
 
 -- -0.5 <= pmv <=0.5
+
 -- ppd <= 10%
