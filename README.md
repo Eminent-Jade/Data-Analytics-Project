@@ -6,3 +6,10 @@ https://www.simscale.com/blog/2019/09/what-is-pmv-ppd/
 # -- -0.5 <= pmv <=0.5
 
 # -- ppd <= 10%
+
+# handy tool for thermal comfort calculations: https://comfort.cbe.berkeley.edu/
+To simulate settings in my project:
+ - Choose 'Relative humidity vs air temperature'
+ - Choose 'PMV method'
+ - Check 'Use operative temp' box
+ - View different 'clothing level' & 'Metabolic rate' values
