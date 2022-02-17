@@ -8,11 +8,13 @@ https://www.simscale.com/blog/2019/09/what-is-pmv-ppd/
 
  -- ppd <= 10%
 
-# handy tool for thermal comfort calculations: https://comfort.cbe.berkeley.edu/
+# handy tool for thermal comfort calculations: 
+https://comfort.cbe.berkeley.edu/
 To simulate settings in my project:
  - Choose 'Relative humidity vs air temperature'
  - Choose 'PMV method'
  - Check 'Use operative temp' box
  - View different 'clothing level' & 'Metabolic rate' values
 
-# package used - pythermlcomfort, https://pythermalcomfort.readthedocs.io/en/latest/reference/pythermalcomfort.html#predicted-mean-vote-pmv-and-predicted-percentage-of-dissatisfied-ppd
+# package used - pythermlcomfort, 
+https://pythermalcomfort.readthedocs.io/en/latest/reference/pythermalcomfort.html#predicted-mean-vote-pmv-and-predicted-percentage-of-dissatisfied-ppd
