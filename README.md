@@ -14,3 +14,5 @@ To simulate settings in my project:
  - Choose 'PMV method'
  - Check 'Use operative temp' box
  - View different 'clothing level' & 'Metabolic rate' values
+
+# package used - pythermlcomfort, https://pythermalcomfort.readthedocs.io/en/latest/reference/pythermalcomfort.html#predicted-mean-vote-pmv-and-predicted-percentage-of-dissatisfied-ppd
