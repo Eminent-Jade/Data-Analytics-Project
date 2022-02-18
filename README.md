@@ -1,5 +1,5 @@
 # Data-Analytics-Project (comments & readme not finalised)
-This is a simulated analytical report on thermal comfort indexes for indoor environment in Rm.02.412 & Rm.12_431 of Building 11 of UTS based on historical data (May 2021 - Aug 2021) collected by EIF Research Data Sensors Interface https://eif-research.feit.uts.edu.au/, computed using package 'pythermalcomfort'.
+This is a simulated analytical report on thermal comfort indexes for indoor environment in Rm.02.412 & Rm.12_431 of Building 11 of UTS based on historical data (01 May 2021 - 30 Jul 2021) collected by EIF Research Data Sensors Interface https://eif-research.feit.uts.edu.au/, computed using package 'pythermalcomfort'.
 
 # To achieve 'comfortable' sensations in indoor environment,
 https://www.simscale.com/blog/2019/09/what-is-pmv-ppd/
