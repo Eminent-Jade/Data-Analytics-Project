@@ -4,9 +4,8 @@ This is a simulated analytical report on thermal comfort indexes for indoor envi
 # To achieve 'comfortable' sensations in indoor environment,
 https://www.simscale.com/blog/2019/09/what-is-pmv-ppd/
 
- -- -0.5 <= pmv <=0.5
-
- -- ppd <= 10%
+ - -0.5 <= pmv <=0.5
+ - ppd <= 10%
 
 # Handy tool for thermal comfort calculations: 
 https://comfort.cbe.berkeley.edu/
