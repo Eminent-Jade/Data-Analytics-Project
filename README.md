@@ -11,8 +11,8 @@ https://www.simscale.com/blog/2019/09/what-is-pmv-ppd/
 # Handy tool for thermal comfort calculations: 
 https://comfort.cbe.berkeley.edu/
 To simulate settings in my project:
- - Choose 'Relative humidity vs air temperature'
- - Choose 'PMV method'
+ - Choose 'Relative humidity vs air temperature' in the option panel on top of the graph
+ - Choose 'PMV method' in 'Select method'
  - Check 'Use operative temp' box
  - View different 'clothing level' & 'Metabolic rate' values
 
