@@ -17,7 +17,7 @@ To simulate settings in my project:
  - Check 'Use operative temp' box
  - View different 'clothing level' & 'Metabolic rate' values
 
-# Package used - pythermlcomfort, 
+# Package used - pythermalcomfort, 
 https://pythermalcomfort.readthedocs.io/en/latest/reference/pythermalcomfort.html#predicted-mean-vote-pmv-and-predicted-percentage-of-dissatisfied-ppd
 
 https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort
