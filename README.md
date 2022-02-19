@@ -3,11 +3,11 @@
 
 ## Project Overview
 
-This is an exploratory data analysis on occupants' thermal comfort sensation in indoor environment in Rm. 02.412 (Data Arena) & Rm. 12_431 (Analysis Room) of Building 11 of University of Technology, Sydney (UTS) (refer to 'Images' folder), using corresponding historical temperature & humidity data sets (01 May 2021 - 30 Jul 2021) collected by EIF Research Data Sensors Interface.
+This is an exploratory data analysis on occupants' thermal comfort sensations in indoor environment in Rm. 02.412 (Data Arena) & Rm. 12_431 (Analysis Room) of Building 11 of University of Technology, Sydney (UTS) (refer to 'Images' folder), using corresponding historical temperature & humidity data sets (01 May 2021 - 30 Jul 2021) collected by EIF Research Data Sensors Interface.
 
 https://eif-research.feit.uts.edu.au/
 
-To achieve that, python package - 'pythermalcomfort', ASHRAE Thermal Comfort Standard for indoor environments & it's theories were applied on temperature & humidity data sets for analyses & visualisations purposes.
+To achieve that, python package - 'pythermalcomfort', ASHRAE (American Society of Heating, Refrigerating, and Air Conditioning Engineers) Thermal Comfort Standard for indoor environments & it's theories were applied on temperature & humidity data sets for analyses & visualisations purposes.
 
 https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort
 
@@ -25,12 +25,15 @@ To simplify the context of the project, several assumptions are to be made,
 - metabolic rate (met) = 1.1 met (typing, typical work situation for occupants in both rooms)
 
 
-## Subjects covered
+## Subjects Covered
 
- - Data collection & manipulation (NumPy, Pandas DataFrames & Series, change datatypes, merge, re-order columns)
- - Data visualizations, Univariate (Categorical features & Countplot) & Bivariate analyses (Lineplots, Scatterplots, Jointplot)
- - Descriptive Statistics (Boxplot, Max, Min, Mean, Standard Deviation, IQR)
- - Explanatory story telling with data
+- Data Collection & Manipulation (NumPy, Pandas DataFrames & Series, change datatypes, merge, re-order columns)
+- 
+- Data visualizations, Univariate (Categorical features & Countplot) & Bivariate analyses (Lineplots, Scatterplots, Jointplot)
+- 
+- Descriptive Statistics (Boxplot, Max, Min, Mean, Standard Deviation, IQR)
+- 
+- Explanatory storytelling with data
 
 
 ## Content
