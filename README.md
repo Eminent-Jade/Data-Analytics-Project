@@ -16,24 +16,18 @@ https://pythermalcomfort.readthedocs.io/en/latest/reference/pythermalcomfort.htm
 
 To simplify the context of the project, several assumptions are to be made,
 
-- air temperature = mean radiant temperature (becomes 'operative temperature', assuming  relative air speed, i.e. negligible heat transfer between ambient air & indoor surfaces, e.g. wall, floor, ceiling.)
-
-- relative air speed (vr) = 0.1 m/s (for simple heat transfer calculations)
-
-- clothing level (clo) = 1.0 clo (typical winter indoor clothing) 
-
-- metabolic rate (met) = 1.1 met (typing, typical work situation for occupants in both rooms)
+- Air temperature = mean radiant temperature (becomes 'operative temperature', assuming  relative air speed, i.e. negligible heat transfer between ambient air & indoor surfaces, e.g. wall, floor, ceiling.)
+- Relative air speed (vr) = 0.1 m/s (for simple heat transfer calculations)
+- Clothing level (clo) = 1.0 clo (typical winter indoor clothing) 
+- Metabolic rate (met) = 1.1 met (typing, typical work situation for occupants in both rooms)
 
 
 ## Subjects Covered
 
 - Data Collection & Manipulation (NumPy, Pandas DataFrames & Series, change datatypes, merge, re-order columns)
-- 
-- Data visualizations, Univariate (Categorical features & Countplot) & Bivariate analyses (Lineplots, Scatterplots, Jointplot)
-- 
+- Data Visualizations, Univariate (Categorical features & Countplot) & Bivariate analyses (Lineplots, Scatterplots, Jointplot)
 - Descriptive Statistics (Boxplot, Max, Min, Mean, Standard Deviation, IQR)
-- 
-- Explanatory storytelling with data
+- Explanatory Storytelling with data
 
 
 ## Content
