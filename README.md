@@ -18,11 +18,11 @@ To simplify the context of the project, several assumptions are to be made,
 
 - air temperature = mean radiant temperature (becomes 'operative temperature', assuming  relative air speed, i.e. negligible heat transfer between ambient air & indoor surfaces, e.g. wall, floor, ceiling.)
 
-- relative air speed = 0.1 m/s (for simple heat transfer calculations)
+- relative air speed (vr) = 0.1 m/s (for simple heat transfer calculations)
 
-- clothing level = 1.0 clo (typical winter indoor clothing) 
+- clothing level (clo) = 1.0 clo (typical winter indoor clothing) 
 
-- metabolic rate = 1.1 met (typing, typical work situation for occupants in both rooms)
+- metabolic rate (met) = 1.1 met (typing, typical work situation for occupants in both rooms)
 
 
 ## Subjects covered
