@@ -28,7 +28,8 @@ https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort
 3. Merge all temperature & humidity dataframes into one
 4. Visualise trends & categories
 5. Adopt package - 'pythermalcomfort', compute pmv & ppd indexes & visualisations
-6. Conclusions
+6. A new assumption on Rm. 02-412's time slots that gave 'Warm/Hot' sensations
+7. Conclusions
 
 
 ## Data Overview
