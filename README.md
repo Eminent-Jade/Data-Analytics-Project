@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This is an exploratory data analysis on occupants' thermal comfort sensation in indoor environment in Rm.02.412 (Data Arena) & Rm.12_431 (Analysis Room) (refer to 'Images' folder) of Building 11 of University of Technology, Sydney (UTS), using corresponding historical temperature & humidity data sets (01 May 2021 - 30 Jul 2021) collected by EIF Research Data Sensors Interface.
+This is an exploratory data analysis on occupants' thermal comfort sensation in indoor environment in Rm. 02.412 (Data Arena) & Rm. 12_431 (Analysis Room) of Building 11 of University of Technology, Sydney (UTS) (refer to 'Images' folder), using corresponding historical temperature & humidity data sets (01 May 2021 - 30 Jul 2021) collected by EIF Research Data Sensors Interface.
 
 https://eif-research.feit.uts.edu.au/
 
@@ -40,13 +40,13 @@ To simplify the context of the project, several assumptions are to be made,
 3. Merge all temperature & humidity dataframes into one
 4. Visualise trends & categories
 5. Adopt package - 'pythermalcomfort', compute pmv & ppd indexes & visualisations
-6. Apply new 'clo' value on Rm. 02-412's time slots that gave 'Warm/Hot' sensations
+6. Apply new 'clo' value on Rm. 02-412's time slots that originally gave 'Warm/Hot' sensations
 7. Conclusions
 
 
 ## Data Overview
 
-Linear numeric data sets of temperature and humidity collected by 2 of the sensors located in each room were used.
+Linear numeric data sets of temperature and humidity collected by separate sensors located in each room were used.
 
 The Research Data Sensors Interface is funded by Australian Government's Education Investment Fund (EIF).
 
@@ -70,7 +70,7 @@ Apart from sustainability aspects, indoor environmental factors such as thermal 
 
 Thermal comfort is the sensation that expresses satisfaction with the thermal environment sensation dependent on several factors, including but not limited to, air temperature, mean radiant temperature, humidity, relative air speed, metabolic rate and clothing level, in this project we will adopt 'pmv/ppd method'.
 
-According to ASHRAE Standard 55, Comfort Zone represents a predicted mean vote(pmv)of -0.5 to +0.5  & percentage of dissatisfied(ppd) <= 10% for buildings where the occupants have metabolic rates of between 1.0 met and 1.3 met and clothing provides between 0.5 clo and 1.0 clo of thermal insulation.
+According to ASHRAE Standard 55, Comfort Zone represents a predicted mean vote (pmv)of -0.5 to +0.5 & percentage of dissatisfied (ppd) <= 10% for buildings where the occupants have metabolic rates of between 1.0 met and 1.3 met and clothing provides between 0.5 clo and 1.0 clo of thermal insulation.
 
 Further readings for understanding thermal comfort theories,
 
@@ -96,7 +96,7 @@ To simulate settings in my project,
  - Choose 'Relative humidity vs air temperature' in the option panel on top of the graph
  - Choose 'PMV method' in 'Select method'
  - Check 'Use operative temp' box
- - View different 'clothing level' & 'Metabolic rate' values
+ - View different 'clothing level' & 'Metabolic rate' values, 
 
 then insert any temperature & humidity you like, e.g.
 
