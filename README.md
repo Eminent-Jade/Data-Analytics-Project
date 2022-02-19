@@ -3,12 +3,12 @@
 
 ## Project Overview
 
-This is an exploratory data analysis on occupants' thermal comfort sensation in indoor environment in Rm.02.412 (Data Arena) & Rm.12_431 (Analysis Room) (refer to 'Images folder') of Building 11 of University of Technology, Sydney (UTS), using corresponding historical data (01 May 2021 - 30 Jul 2021) collected by EIF Research Data Sensors Interface.
+This is an exploratory data analysis on occupants' thermal comfort sensation in indoor environment in Rm.02.412 (Data Arena) & Rm.12_431 (Analysis Room) (refer to 'Images folder') of Building 11 of University of Technology, Sydney (UTS), using corresponding historical data sets (01 May 2021 - 30 Jul 2021) collected by EIF Research Data Sensors Interface.
 
 https://eif-research.feit.uts.edu.au/
 
 
-In this project, we will focus on examining thermal comfort sensations in 2 rooms. To achieve that, python package - 'pythermalcomfort', ASHRAE thermal comfort Standard for indoor environments & it's theories were adopted for analyses & visualisations purposes.
+To achieve that, python package - 'pythermalcomfort', ASHRAE Thermal Comfort Standard for indoor environments & it's theories were adopted for analyses & visualisations purposes.
 
 https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort
 
