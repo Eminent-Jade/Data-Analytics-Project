@@ -17,15 +17,11 @@ https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort
 1. Extract data and build initial dataframes
 2. Categorise data
 3. Merge dataframes into one
-
- 3.1 Compare 'time differences' in dataframes before merging
-
- 3.2 Deciding 'left table' for 'merge_asof' function
+3.1 Compare 'time differences' in dataframes before merging
+3.2 Deciding 'left table' for 'merge_asof' function
 4. Visualise trends & categories
 5. Adopt package - 'pythermalcomfort', compute pmv & ppd indexes & visualisations
-
- 5.1 compute & visualise pmv & ppd indexes
- 
+5.1 compute & visualise pmv & ppd indexes
  5.2 Hypothesis on Rm. 02-412's time slots giving 'Warm/Hot' sensations
 6. Conclusions
 
