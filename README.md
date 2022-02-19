@@ -3,12 +3,12 @@
 
 ## Project Overview
 
-This is an exploratory data analysis on occupants' thermal comfort sensation in indoor environment in Rm.02.412 (Data Arena) & Rm.12_431 (Analysis Room) (refer to 'Images folder') of Building 11 of University of Technology, Sydney (UTS), using corresponding historical data (01 May 2021 - 30 Jul 2021) collected by EIF Research Data Sensors Interface 
+This is an exploratory data analysis on occupants' thermal comfort sensation in indoor environment in Rm.02.412 (Data Arena) & Rm.12_431 (Analysis Room) (refer to 'Images folder') of Building 11 of University of Technology, Sydney (UTS), using corresponding historical data (01 May 2021 - 30 Jul 2021) collected by EIF Research Data Sensors Interface.
 
-https://eif-research.feit.uts.edu.au/.
+https://eif-research.feit.uts.edu.au/
 
 
-In this project, we will focus on examining thermal comfort sensations in 2 rooms. To achieve that, python package - 'pythermalcomfort', ASHRAE thermal comfort Standard for indoor environments & it's theories were adopted for analyses & visualisations purposes
+In this project, we will focus on examining thermal comfort sensations in 2 rooms. To achieve that, python package - 'pythermalcomfort', ASHRAE thermal comfort Standard for indoor environments & it's theories were adopted for analyses & visualisations purposes.
 
 https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort
 
@@ -41,7 +41,7 @@ The Research Data Sensors Interface is funded by Australian Government's Educati
 
 https://eif-wiki.feit.uts.edu.au/eif_overview
 
-However, being told by the Technical Services Manager of the faculty (refer to 'Image' folder) due to technical/maintenance issues, only Temperature and Relative Humidity data sets were adopted for analyses in this project. and data sets were directly copied from url links to txt files rather than downloaded from the search engine. (refer to 'Data' folder)
+However, being told by the Technical Services Manager of the faculty (refer to 'Image' folder) due to technical/maintenance issues, only Temperature and Relative Humidity data sets were adopted for analyses in this project. and data sets were directly copied from url links to txt files rather than downloaded from the search engine (refer to 'Data' folder).
 
 
 ## About UTS Bulding 11
@@ -67,6 +67,7 @@ https://www.simscale.com/blog/2019/09/what-is-pmv-ppd/
 https://comfort.cbe.berkeley.edu/
 
 To simulate settings in my project,
+
  - Choose 'Relative humidity vs air temperature' in the option panel on top of the graph
  - Choose 'PMV method' in 'Select method'
  - Check 'Use operative temp' box
@@ -77,6 +78,7 @@ To simulate settings in my project,
 
 
 ## Package used - pythermalcomfort
+
 https://pythermalcomfort.readthedocs.io/en/latest/reference/pythermalcomfort.html#predicted-mean-vote-pmv-and-predicted-percentage-of-dissatisfied-ppd
 
 https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort
