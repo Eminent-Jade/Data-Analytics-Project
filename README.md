@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This is an exploratory data analysis on occupants' thermal comfort sensation in indoor environment in Rm.02.412(Data Arena) & Rm.12_431(Analysis Room)(refer to 'Images folder') of Building 11 of University of Technology, Sydney (UTS), using corresponding historical data (01 May 2021 - 30 Jul 2021) collected by EIF Research Data Sensors Interface 
+This is an exploratory data analysis on occupants' thermal comfort sensation in indoor environment in Rm.02.412 (Data Arena) & Rm.12_431 (Analysis Room) (refer to 'Images folder') of Building 11 of University of Technology, Sydney (UTS), using corresponding historical data (01 May 2021 - 30 Jul 2021) collected by EIF Research Data Sensors Interface 
 
 https://eif-research.feit.uts.edu.au/.
 
@@ -11,6 +11,15 @@ https://eif-research.feit.uts.edu.au/.
 In this project, we will focus on examining thermal comfort sensations in 2 rooms. To achieve that, python package - 'pythermalcomfort', ASHRAE thermal comfort Standard for indoor environments & it's theories were adopted for analyses & visualisations purposes
 
 https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort
+
+
+## Subjects covered:
+
+ - Data collection & manipulation (NumPy, Pandas Series & Dataframes, change datatypes, merge, re-order columns)
+ - Data visualizations, Univariate & Bivariate analyses (Lineplots, Scatterplots, Jointplot)
+ - Descriptive Statistics(Boxplot, Max, Min, Mean, Standard Deviation, IQR)
+ - Explanatory story telling with data
+
 
 ## Content
 
@@ -27,7 +36,6 @@ https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort
 
 
 ## Data Overview
-
 
 Linear numeric data sets collected by 2 of the sensors located respectively in 2 rooms were used.
 
@@ -51,12 +59,14 @@ Apart from sustainability aspects, indoor environmental factors such as thermal 
 
 
 ## To achieve 'comfortable' sensations in indoor environment,
+
 https://www.simscale.com/blog/2019/09/what-is-pmv-ppd/
 
  - -0.5 <= pmv <=0.5
  - ppd <= 10%
 
 ## Handy tool for thermal comfort calculations: 
+
 https://comfort.cbe.berkeley.edu/
 
 To simulate settings in my project:
