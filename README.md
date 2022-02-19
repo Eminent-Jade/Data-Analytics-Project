@@ -17,7 +17,7 @@ https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort
 
  - Data collection & manipulation (NumPy, Pandas Series & Dataframes, change datatypes, merge, re-order columns)
  - Data visualizations, Univariate & Bivariate analyses (Lineplots, Scatterplots, Jointplot)
- - Descriptive Statistics(Boxplot, Max, Min, Mean, Standard Deviation, IQR)
+ - Descriptive Statistics (Boxplot, Max, Min, Mean, Standard Deviation, IQR)
  - Explanatory story telling with data
 
 
@@ -36,7 +36,7 @@ https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort
 
 Linear numeric data sets collected by 2 of the sensors located respectively in 2 rooms were used.
 
-The Research Data Sensors Interface is funded by Australian Government's Education Investment Fund(EIF).
+The Research Data Sensors Interface is funded by Australian Government's Education Investment Fund (EIF).
 
 
 https://eif-wiki.feit.uts.edu.au/eif_overview
@@ -44,7 +44,7 @@ https://eif-wiki.feit.uts.edu.au/eif_overview
 However, being told by the Technical Services Manager of the faculty (refer to 'Image' folder) due to technical/maintenance issues, only Temperature and Relative Humidity data sets were adopted for analyses in this project. and data sets were directly copied from url links to txt files rather than downloaded from the search engine (refer to 'Data' folder).
 
 
-## About UTS Bulding 11
+## About UTS Building 11
 
 With it's wide range of sustainability features (energy, water consumption etc.), UTS building 11 has once achieved '5 Star Green Star – Education Design v1' rating, awarded by the Green Building Council of Australia (GBCA).
 
