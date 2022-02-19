@@ -13,7 +13,7 @@ In this project, we will focus on examining thermal comfort sensations in 2 room
 https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort
 
 
-## Subjects covered:
+## Subjects covered
 
  - Data collection & manipulation (NumPy, Pandas Series & Dataframes, change datatypes, merge, re-order columns)
  - Data visualizations, Univariate & Bivariate analyses (Lineplots, Scatterplots, Jointplot)
@@ -25,13 +25,9 @@ https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort
 
 1. Extract data and build initial dataframes
 2. Categorise data
-3. Merge dataframes into one
-- 3.1 Compare 'time differences' in dataframes before merging
-- 3.2 Deciding 'left table' for 'merge_asof' function
+3. Merge all temperature & humidity dataframes into one
 4. Visualise trends & categories
 5. Adopt package - 'pythermalcomfort', compute pmv & ppd indexes & visualisations
-- 5.1 compute & visualise pmv & ppd indexes
-- 5.2 Hypothesis on Rm. 02-412's time slots giving 'Warm/Hot' sensations
 6. Conclusions
 
 
@@ -65,11 +61,11 @@ https://www.simscale.com/blog/2019/09/what-is-pmv-ppd/
  - -0.5 <= pmv <=0.5
  - ppd <= 10%
 
-## Handy tool for thermal comfort calculations: 
+## Handy tool for thermal comfort calculations
 
 https://comfort.cbe.berkeley.edu/
 
-To simulate settings in my project:
+To simulate settings in my project,
  - Choose 'Relative humidity vs air temperature' in the option panel on top of the graph
  - Choose 'PMV method' in 'Select method'
  - Check 'Use operative temp' box
@@ -79,7 +75,7 @@ To simulate settings in my project:
 ![image](https://user-images.githubusercontent.com/95272183/154760490-073db072-4120-4c13-93d7-682f528180c9.png)
 
 
-## Package used - pythermalcomfort, 
+## Package used - pythermalcomfort
 https://pythermalcomfort.readthedocs.io/en/latest/reference/pythermalcomfort.html#predicted-mean-vote-pmv-and-predicted-percentage-of-dissatisfied-ppd
 
 https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort
