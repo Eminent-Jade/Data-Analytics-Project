@@ -16,7 +16,7 @@ https://pythermalcomfort.readthedocs.io/en/latest/reference/pythermalcomfort.htm
 
 To simplify the context of the project, several assumptions are to be made,
 
-- Air temperature = mean radiant temperature (becomes 'operative temperature', assuming  relative air speed, i.e. negligible heat transfer between ambient air & indoor surfaces, e.g. wall, floor, ceiling.)
+- Air temperature = mean radiant temperature (becomes 'operative temperature', assuming relative air speed = 0.1 m/s, i.e. negligible heat transfer between ambient air & indoor surfaces, e.g. wall, floor, ceiling.)
 - Relative air speed (vr) = 0.1 m/s (for simple heat transfer calculations)
 - Clothing level (clo) = 1.0 clo (typical winter indoor clothing) 
 - Metabolic rate (met) = 1.1 met (typing, typical work situation for occupants in both rooms)
