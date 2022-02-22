@@ -73,7 +73,7 @@ https://pythermalcomfort.readthedocs.io/en/latest/reference/pythermalcomfort.htm
 
 然後，比較「溫度和濕度」及「pmv和ppd」指數對使用者的室內熱舒適感的代表性。
 
-最後，對使用者的衣服熱阻（clo）數值做出新的假設，並重複計算「pmv & ppd」指數。
+最後，在一部分給使用者帶來「暖/熱」時隙時間段內，改變衣服熱阻數值，並重新計算「pmv & ppd」指數以查看改善%。
 
 
 ## 目錄
