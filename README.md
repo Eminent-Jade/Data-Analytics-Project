@@ -1,18 +1,17 @@
 # Data-Analytics-Project
 
 
-## Subjects Covered
+## Project Overview
+
+This is an exploratory data analysis project to find out occupants' thermal comfort levels in indoor environment in Rm. 02.412 (Data Arena) & Rm. 12_431 (Analysis Room) of Building 11 of University of Technology, Sydney (UTS), by analysing and visualising historical temperature & humidity data sets, and the corresponding computed results of thermal comfort indexes.
+
+Subjects Covered
 
 - Data Collection & Manipulation (NumPy, Pandas DataFrames & Series, change datatypes, merge, re-order columns)
 - Data Visualizations, Univariate (Categorical features & Countplot) & Bivariate analyses (Lineplots, Scatterplots, Regression line, Jointplot)
 - Descriptive Statistics (Boxplot, Max, Min, Mean, Standard Deviation, IQR)
 - Application on external python package
 - Explanatory Storytelling with data
-
-
-## Project Overview
-
-This is an exploratory data analysis project to find out occupants' thermal comfort levels in indoor environment in Rm. 02.412 (Data Arena) & Rm. 12_431 (Analysis Room) of Building 11 of University of Technology, Sydney (UTS), by analysing and visualising historical temperature & humidity data sets, and the corresponding computed results of thermal comfort indexes.
 
 
 ## Data Overview
