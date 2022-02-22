@@ -73,7 +73,7 @@ https://pythermalcomfort.readthedocs.io/en/latest/reference/pythermalcomfort.htm
 
 Then, compare the representativenesses between 'temperature & humidity' and 'pmv & ppd' indexes in terms of indoor thermal comfort sensations of occupants.
 
-Lastly, make a new assumption on a different clothing level of occupants, and repeat the computations of 'pmv & ppd' indexes.
+Lastly, apply a different clothing level of occupants in a part of time slots that gave 'Warm/Hot' sensations in terms of 'pmv', and compute new 'pmv & ppd' indexes to see the rate of improvements.
 
 
 ## Content
