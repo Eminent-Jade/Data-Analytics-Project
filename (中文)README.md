@@ -18,7 +18,7 @@
 
 採用了由2021 年 5 月 1 日至 2021 年 7 月 30 日，由分別位於兩個房間內的傳感器所收集的溫度及濕度的線性數字數據集（請參閱「Images」文件夾）。
 
-「EIF」研究項目的數據傳感器接口由Australian Government's Education Investment Fund (EIF) （直譯：澳洲政府的教育投資基金）資助，用以監控大廈的可再生能源系統、以及各種外在及內在環境因素。
+研究項目的數據傳感器接口由Australian Government's Education Investment Fund (EIF) （直譯：澳洲政府的教育投資基金）資助，用以監控大廈的可再生能源系統、以及各種外在及內在環境因素。
 
 https://eif-research.feit.uts.edu.au/
 
