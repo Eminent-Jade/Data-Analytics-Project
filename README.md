@@ -18,7 +18,7 @@ Subjects Covered
 
 Linear numeric data sets of temperature and humidity were collected by separate sensors located in each room, for the period of 01 May 2021 to 30 Jul 2021 were used (refer to 'Images' folder).
 
-The EIF Research Data Sensors Interface is funded by Australian Government's Education Investment Fund (EIF), in order to monitor renewable energy generation system, and several internal and external environmental factors of the building.
+The Research Data Sensors Interface is funded by Australian Government's Education Investment Fund (EIF), in order to monitor renewable energy generation system, and several internal and external environmental factors of the building.
 
 https://eif-research.feit.uts.edu.au/
 
