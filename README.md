@@ -75,17 +75,6 @@ Then, compare the representativenesses between 'temperature & humidity' and 'pmv
 Lastly, apply a different clothing level of occupants in a part of time slots that gave 'Warm/Hot' sensations in terms of 'pmv', and compute new 'pmv & ppd' indexes to see the rate of improvements.
 
 
-## Content
-
-1. Extract data and build initial dataframes
-2. Categorise data
-3. Merge all temperature & humidity dataframes into one
-4. Visualise trends & categories
-5. Adopt package - 'pythermalcomfort', compute 'pmv & ppd' indexes & visualisations
-6. Apply new 'clo' value on Rm. 02-412's time slots that originally gave 'Warm/Hot' sensations
-7. Conclusions
-
-
 ## About UTS Building 11
 
 With it's wide range of sustainability features (energy, water consumption etc.), UTS building 11 has once achieved '5 Star Green Star – Education Design v1' rating, awarded by the Green Building Council of Australia (GBCA).
