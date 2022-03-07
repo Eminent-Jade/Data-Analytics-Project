@@ -3,6 +3,8 @@
 
 ## Project Overview
 
+China and other countries have announced their carbon neutrality goals in UN Climate Action Summit, energy reduction is one of the concerned parameters to achieve the goals. Thermal comfort analysis is a crucial factor to optimate the balance between energy consumption and air-conditioning.
+
 This is an exploratory data analysis project to find out occupants' thermal comfort levels in indoor environment in Rm. 02.412 (Data Arena) & Rm. 12_431 (Analysis Room) of Building 11 of University of Technology, Sydney (UTS), by analysing and visualising historical temperature & humidity data sets, and the corresponding computed results of thermal comfort indexes.
 
 Subjects Covered
